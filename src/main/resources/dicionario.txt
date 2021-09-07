@@ -1,0 +1,13 @@
+classe
+objeto
+heranca
+polimorfismo
+encapsulamento
+sobrecarga
+sobrescrita
+bulldog
+comida
+chocolate
+passear
+shopping
+comprar
